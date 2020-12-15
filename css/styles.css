@@ -1,0 +1,17 @@
+body
+{
+    font-family: "Open Sans", sans-serif;
+    margin: 0 auto;
+    background-color: darkmagenta;
+}
+
+.messages
+{
+    margin-bottom: 20px;
+}
+
+.sender-message, .replier-message
+{
+    padding: 5px;
+    background-color: darkmagenta;
+}
